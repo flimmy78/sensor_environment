@@ -1,0 +1,4 @@
+uint16 AD
+uint16 man
+uint16 humi
+uint16 temp
